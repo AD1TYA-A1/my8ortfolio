@@ -37,7 +37,8 @@ This repository contains my personal portfolio website, built using Next.js, sho
 
 
    CONTACT ME TO GET MY PORTFOLIO AND RESUME!!!
-   (**adm1n5alls@gmail.com**)
+   
+   **adm1n5alls@gmail.com**
 
 ## 🚀 Quick Start
 
