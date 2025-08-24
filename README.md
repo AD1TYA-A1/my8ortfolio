@@ -12,7 +12,7 @@
 
 **A showcase of my projects and skills.**
 
-TODO: Contact me for Preview 
+**Contact me for Preview** 
 
 
 </div>
