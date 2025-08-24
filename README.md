@@ -30,11 +30,14 @@ This repository contains my personal portfolio website, built using Next.js, sho
 
 
 ## 🖥️ Vedio
-   Click the Link Below To Visualize My Portfolio
+   Click the Link Below To Visualize a bit My Portfolio
    
    
    https://www.awesomescreenshot.com/video/43465128
 
+
+   CONTACT ME TO GET MY PORTFOLIO AND RESUME!!!
+   (**adm1n5alls@gmail.com**)
 
 ## 🚀 Quick Start
 
