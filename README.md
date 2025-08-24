@@ -33,7 +33,7 @@ This repository contains my personal portfolio website, built using Next.js, sho
    Click the Link Below To Visualize My Portfolio
    
    
-   -https://www.awesomescreenshot.com/video/43465128
+   https://www.awesomescreenshot.com/video/43465128
 
 
 ## 🚀 Quick Start
